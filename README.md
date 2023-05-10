@@ -1,4 +1,4 @@
-# Government So Far: Greenhouse Gas Emissions, Energy Consumption, and Production in Canada
+# Analyzing the Canadian Government's Initiatives to Reduce Carbon Footprint
 
 ##### Introduction
 
